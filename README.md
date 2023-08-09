@@ -8,9 +8,8 @@ All 5 project will each have their own repository. This is to ensure that everyt
 
 
 ### Project and repository
+<img width="452" alt="Screenshot 2023-08-09 115915" src="https://github.com/DestinysChildSthe/CMPG-323---38742799/assets/112766697/719a004b-9083-4ae0-b07c-89ba4853666e">
 <img width="456" alt="Repository" src="https://github.com/DestinysChildSthe/CMPG-323---38742799/assets/112766697/5c0db0f5-7bd8-4f5b-9257-e86cb7ddd9e8">
-
-
 
 <img width="450" alt="Screenshot 2023-08-09 121431" src="https://github.com/DestinysChildSthe/CMPG-323---38742799/assets/112766697/744712e4-53eb-4de9-a0c2-1ff30760a1e7">
 
