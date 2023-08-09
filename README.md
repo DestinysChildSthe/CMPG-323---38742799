@@ -25,3 +25,8 @@ The use of the .gitignore file is to store all the files from the each project t
 
 ###### Storage
 It is not a good idea to store credentials and sensitive information on GitHub because it is used to store code, there is no guarantee that the information stored will only be kept in only in the specific account.
+
+# Burndown Chart
+
+<img width="662" alt="Burndown chart" src="https://github.com/DestinysChildSthe/CMPG-323---38742799/assets/112766697/3cf163a3-102c-455b-86ac-d13d6b955dd3">
+
