@@ -13,7 +13,6 @@ All 5 project will each have their own repository. This is to ensure that everyt
 <img width="450" alt="Screenshot 2023-08-09 121431" src="https://github.com/DestinysChildSthe/CMPG-323---38742799/assets/112766697/744712e4-53eb-4de9-a0c2-1ff30760a1e7">
 
 ### Branching
-The branching strategy that will be used for each project is Git Flow which will be using multiple branches to manage master branch. The branches in this strategy are master, development, hotfix, feature and release. Where master and development are the primary branches and hotfix, feature and release are the support branches. This strategy is selected because it is easy and has different branches for specific reasons.
 
 ###.gitignore file 
 The use of the .gitignore file is to store all the files from the each project that need to be ignored or not 
